@@ -11,9 +11,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 ### ❤Views and followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=rminrazavi">
-</a>
+![](https://komarev.com/ghpvc/?username=rminrazavi)
 <a href="https://github.com/rminrazavi?tab=followers"><img src="https://img.shields.io/github/followers/rminrazavi?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <div align=center>
